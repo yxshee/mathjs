@@ -112,7 +112,7 @@ const knownProblems = new Set([
   'subset', 'squeeze', 'rotationMatrix',
   'rotate', 'reshape', 'partitionSelect', 'matrixFromFunction',
   'matrixFromColumns', 'getMatrixDataType', 'eigs', 'diff', 'slu',
-  'rationalize', 'qr', 'lusolve', 'lup', 'derivative',
+  'rationalize', 'qr', 'lusolve', 'lup',
   'schur', 'sylvester', 'freqz', 'round',
   'import', 'typed',
   'unit', 'sparse', 'matrix', 'index', 'bignumber', 'fraction', 'complex',
